@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43286'
     url: http://www.gutenberg.org/2009/agents/43286
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45416#Gods-and-Heroesor-The-Kingdom-of-Jupiter
 gutenberg_issued: '2014-04-20'
 gutenberg_type: Text
 identifiers:
